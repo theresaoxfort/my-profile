@@ -1,0 +1,68 @@
+
+
+body{
+	background: pink;
+	font-family: Courier;
+	text-align: center;
+}
+
+h1{
+	color: black;
+	font-size: 30px;
+	font-family: Arial;
+	text-align: center;
+}
+
+a:hover {
+	color: green;
+}
+
+h2{
+	color: green;
+	font-family: Arial;
+}
+
+img{
+	width: 680px;
+	border-radius: 5%;
+}
+
+div{
+	background:(30,30,30);
+	padding: (40px);
+	width: 700px;
+	margin: 40px auto;
+	border-radius: 30px 
+	border: black;
+}
+
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba (0,0,0,0.1);
+	border-radius: 10px;
+	margin: 20px 0px;
+	text-align: center;
+}
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+form{
+	text-align: center;
+}
+
+.btn-purple{
+	background-color: purple;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;	
+}
+
+.list-inline li{
+	display:inline;
+	padding:10px;
+	font-size: 40px;
+}
+
+
